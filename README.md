@@ -7,3 +7,5 @@ Hi, My name is Chen. Data Analysis and Retail Analytics are my passions and I ha
 • Extracted over 2000 products and 15000 orders from databases using SQL
 
 • Analysed data from overview to inventory level,orders management and logistic service providers to quantify the value of purchasing.
+
+![](https://github.com/DogTea/Chen_Portfolio/blob/main/images/Purchasing%20management%20dashboard.PNG)
