@@ -19,3 +19,12 @@ Hi, My name is Chen. Data Analysis and Retail Analytics are my passions and I ha
 
 ![](https://github.com/DogTea/Chen_portfolio/blob/main/images/Forecast%20revenue%20analysis_1.png)
 ![](https://github.com/DogTea/Chen_portfolio/blob/main/images/Forecast%20revenue%20analysis_2.png)
+
+# Project 3: Market Basket Analysis: Project Overview
+• Created a table for listing the common items in customer transation or basket to recommend items for customers. 
+
+• Extracted around 70000 rows of data from Excel.
+
+• Analysed data by apriori, Collaborative Filtering and save the table into a Excel file.
+
+![](https://github.com/DogTea/Chen_portfolio/blob/main/images/market%20basket%20analysis_1.PNG)
