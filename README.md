@@ -11,7 +11,7 @@ Hi, My name is Chen. Data Analysis and Retail Analytics are my passions and I ha
 ![](https://github.com/DogTea/Chen_Portfolio/blob/main/images/Purchasing%20management%20dashboard.PNG)
 
 # Project 2: Sales Forecasting Analysis: Project Overview
-• Creating a chart for visualizing forecasts of sales in order to prepare budgeting and planning.
+• Created a chart for visualizing forecasts of sales in order to prepare budgeting and planning.
 
 • Extracted data over 36 months and forecast sales over the next 5 years using Python.
 
