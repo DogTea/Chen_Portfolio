@@ -1,5 +1,5 @@
 # Chen_Portfolio
-Hi, My name is Chen.My passions are Data Analysis and Retail Analytics and I have been working in the retail field in the UK for almost two years doing purchasing and sales jobs. I like to research and resolve practical problems that happened in the work environment using technology and analysis.   
+Hi, My name is Chen.My passions are Data Analysis and Retail Analytics and I have been working in the retail field in the UK for almost two years doing purchasing and sales jobs.I like to research and resolve practical problems that happened in the work environment using technology and analysis.   
 
 # Project 1: Purchasing Management Dashboards: Project Overview
 • Created a dashboard for purchasing management that monitor the inventory and ensures a healthy stock condition throughout the warehouse.
@@ -28,3 +28,10 @@ Hi, My name is Chen.My passions are Data Analysis and Retail Analytics and I hav
 • Analysed data by apriori, Collaborative Filtering and save the table into a Excel file.
 
 ![](https://github.com/DogTea/Chen_portfolio/blob/main/images/market%20basket%20analysis_1.PNG)
+
+# Project 4: Competitor Analysis: Project Overview
+• Created a report for comparing data and be able to improve the internal business. 
+
+• Extracted over 4 years'sales data from databases and websites.
+
+• Analysed data by pricing to products,service and market.
