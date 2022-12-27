@@ -1,5 +1,5 @@
 # Chen_Portfolio
-Hi, My name is Chen. Data Analysis and Retail Analytics are my passions and I have been working in the retail field in the UK for almost two years doing purchasing and sales jobs. I like to research and resolve practical problems that happened in the work using technology and analysis.   
+Hi, My name is Chen.My passions are Data Analysis and Retail Analytics and I have been working in the retail field in the UK for almost two years doing purchasing and sales jobs. I like to research and resolve practical problems that happened in the work environment using technology and analysis.   
 
 # Project 1: Purchasing Management Dashboards: Project Overview
 • Created a dashboard for purchasing management that monitor the inventory and ensures a healthy stock condition throughout the warehouse.
