@@ -35,3 +35,7 @@ Hi, My name is Chen.My passions are Data Analysis and Retail Analytics and I hav
 • Extracted over 4 years'sales data from databases and websites.
 
 • Analysed data by pricing to products,service and market.
+
+![](https://github.com/DogTea/Chen_portfolio/blob/main/images/Competitor%20Analysis_1.PNG)
+
+![](https://github.com/DogTea/Chen_portfolio/blob/main/images/Competitor%20Analysis_2.PNG)
