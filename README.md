@@ -17,3 +17,4 @@ Hi, My name is Chen. Data Analysis and Retail Analytics are my passions and I ha
 
 • Analysed data by time series analysis,ARIMA model,predicting and real data comparison and the Mean Squared Error.
 
+![](https://github.com/DogTea/Chen_portfolio/blob/main/images/Forecast%20revenue%20analysis_1.png)
